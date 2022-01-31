@@ -8,8 +8,6 @@
 
 ```c#
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using Ignat.System;
 
 public class UserController : IgnatKarelovSuslov 
