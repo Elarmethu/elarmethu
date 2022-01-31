@@ -1,5 +1,5 @@
-#Elarmethu#
-##I'm C#, C++ software devoloper.##
+# Elarmethu #
+## I'm C#, C++ software devoloper. ##
 
 Latest 
 
