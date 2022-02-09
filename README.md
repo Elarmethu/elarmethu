@@ -5,7 +5,6 @@
 
 ### Link to me:
 * <b> Gmail </b>: ignatkarelov@gmail.com
-* <b> Vk </b>: https://vk.com/elarmethuoff
 * <b> Discord </b>: Elarmethu#3937
 
 
