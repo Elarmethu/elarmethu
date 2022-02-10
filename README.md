@@ -16,7 +16,7 @@ using Ignat.System;
 
 public class UserController : IgnatKarelovSuslov 
 {
-	public static UserController Instance = this;
+	public static UserController Instance;
 
 	public static string[] GetUserInfo(UserData data)
 	{
