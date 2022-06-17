@@ -12,7 +12,7 @@
 
 ```c#
 using System;
-using Ignat.System;
+using System.Ignat;
 
 public class UserController : IgnatKarelovSuslov 
 {
