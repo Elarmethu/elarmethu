@@ -22,7 +22,7 @@ public class UserController : IgnatKarelovSuslov
 	{
 		string info = new string[4];
 		info[0] = data.Pronouns; // pronouns: HE | HIM.
-		info[1] = data.Code; // code: C#, C++, Lua, Java, HTML, CSS.
+		info[1] = data.Code; // code: C#, C++, Python, Lua, Java, HTML, CSS.
 		info[2] = data.Tools; // tools: Unity, UnrealEngine, Source 1/2, Styled-Components, Node.
 
 		return info;
