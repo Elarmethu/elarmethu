@@ -30,7 +30,7 @@ public class UserController : IgnatKarelovSuslov
 
 	public string GetFutureGoal()
 	{
-		return "To contribute to open source.";
+		return "Contribute to open source.";
 	}
 }
 ```
