@@ -1,5 +1,5 @@
 <h2> Hello, I'm Ignat Karelov-Suslov !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="90"> </h2>
-<p><em> Software Developer at freelance. </em></p>
+<p><em> Unity/.Net/C# developer </em></p>
 
 [![GitHub Elarmethu](https://img.shields.io/github/followers/elarmethu?label=follow&style=social)](https://github.com/Elarmethu)
 
