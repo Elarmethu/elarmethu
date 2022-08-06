@@ -4,7 +4,7 @@
 [![GitHub Elarmethu](https://img.shields.io/github/followers/elarmethu?label=follow&style=social)](https://github.com/Elarmethu)
 
 ### Link to me:
-* <b> Gmail </b>: ignatkarelov@gmail.com
+* <b> Gmail </b>: elarmethu@gmail.com
 * <b> Discord </b>: Elarmethu#3937
 
 
