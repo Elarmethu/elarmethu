@@ -102,18 +102,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=elarmethu&show_icons=true&hide_border=true&theme=transparent" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elarmethu&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
 ## 🤝 Open to Collaboration
 
 I'm interested in projects related to:
