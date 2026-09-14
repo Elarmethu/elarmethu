@@ -20,7 +20,7 @@ I work both on products from scratch and on improving existing systems.
 - I create custom solutions for **WordPress / WooCommerce / ACF**
 - I automate repetitive tasks with **Python / n8n**
 - I work with scraping, browser automation, and third-party integrations
-- I also have experience with **1C‑Bitrix**, mobile apps, and Unity
+- I also have experience with **1C‑Bitrix**, mobile apps, and **Unity**
 - I enjoy projects where I need to understand the product logic, not just write the UI
 
 ---
