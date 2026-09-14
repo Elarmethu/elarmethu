@@ -13,7 +13,7 @@ I work both on products from scratch and on improving existing systems.
 
 ## 👨‍💻 About Me
 
-- Full‑Stack Developer with **3+ years of commercial experience**
+- Full‑Stack Developer with **5+ years of commercial experience**
 - Main stack: **PHP, JavaScript, Node.js, WordPress**
 - I build **REST APIs**, integrations, and internal services
 - Experienced with **Laravel, Yii2, Vue, React, Express**
